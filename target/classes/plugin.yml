@@ -1,0 +1,11 @@
+name: MapManager
+main: org.inventivetalent.mapmanager.MapManagerPlugin
+author: inventivetalent
+version: 1.8.8-SNAPSHOT
+api-version: '1.17'
+
+softdepend: [PacketListenerApi]
+
+commands:
+  mapmanager:
+    aliases: [mmanager]
